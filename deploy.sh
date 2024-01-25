@@ -14,7 +14,7 @@ cd ./docs/.vitepress/dist
 # echo 'www.example.com' > CNAME
 
 git config --global user.email "2540229178@qq.com"
-git config --global user.name "FunnyDerivatives"
+git config --global user.name "fuzhengy"
 git init
 git add -A
 git commit -m 'deploy'
